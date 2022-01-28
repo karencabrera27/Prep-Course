@@ -1,0 +1,14 @@
+//Conceptos
+
+// Variables: es una forma de guardar datos para después poder usarlos en el momento que queramos.
+
+// Strings: es una cadena de caracteres, van siempre entre doble comillas ("") o comillas simples ('').
+
+// Funciones (argumentos, return): es una forma de realizar alguna tarea o calcular un valor. Está compuesto por:
+ - El nombre de la funcion,
+ - Los argumentos, que van entre paréntesis y separados por ",". Puede recibir variables (a, b),  o bien quedar vacío ().
+ - Y el return siempre retorna algo, es decir que devuelve algun valor. 
+
+// Declaraciones if: ejecuta un bloque de codigo solo si cumple la condición que se haya definido entre paréntesis.
+
+// Valores booleanos (true, false): son valores lógicos, pueden ser verdadero o falso.
