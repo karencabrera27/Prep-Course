@@ -1,0 +1,22 @@
+
+// FOR 
+
+Es un bucle en donde se evaluan expresiones. Ejecuta un bloque de código determinadas veces y luego se detiene.
+Está compuesto por 3 argumentos, que van entre paréntesis ().En el primero va la declaracion de una varibles, en el 
+segundo se establece la condición que se debe cumplir y en el tercero aumenta un valor cada vez que se ejecuta el bloque
+de código en el ciclo. Luego entre llaves, va el bloque código que deberá ejecutarse.
+
+// && 
+
+Es un operador lógico, el cual significa "y" o "and" en inglés. Esto devuelve "true" si dos o más expresiones son 
+verdaderas. Si una de ellas es falsa, esta devolverá "false".
+
+// ||
+
+Es otro operador lógico, el cual significa "o" u "or" en inglés. Es utilizado para evaluar si se cumple una u otra 
+condición. Devolverá true si al menos una de ellas es verdadera.
+
+// !
+
+Es otro operador lógico, el cual es usado para indicar una negación y significa "no" o "not" en inglés. Devolverá 
+verdadero si la expresión es lo contrario a lo indicado.
