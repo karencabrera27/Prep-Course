@@ -1,0 +1,38 @@
+body{
+    background-image: url(./img/programacion.jpg);
+    background-size: cover;
+}
+div{
+    text-align: center;
+}
+
+.divClass h1{
+    color: crimson;
+}
+
+img{
+    width: 400px;
+}
+
+#thirdDiv{
+    height: 600px; 
+    width: 500px; 
+    background-color: gold; 
+    padding: 50px; 
+    border: 1px solid black;
+}
+
+#spanId{
+    font-size: 18px; 
+    margin: 50px;
+}
+
+ul{
+    list-style: none;
+}
+
+/* para centrar los div */
+div{
+    margin-left: auto;
+    margin-right: auto;
+}
